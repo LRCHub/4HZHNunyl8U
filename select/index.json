@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ハク",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-02-21T12:27:13.055700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハク (Feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)",
+      "artist": "25時、ナイトコートて。",
+      "has_synced": true,
+      "path": "select/01_ハク_(Feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)_25時、ナイトコートて。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【ハク。Cover企画】MONO NO AWARE \"かむかもしかもにどもかも！\"",
+      "artist": "Haku.",
+      "has_synced": false,
+      "path": "select/02_【ハク。Cover企画】MONO_NO_AWARE__かむかもしかもにどもかも!_Haku..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "【ハク。Cover企画】MONO NO AWARE \\\"かむかもしかもにどもかも！\\\"",
+      "artist": "haku.",
+      "has_synced": false,
+      "path": "select/03_【ハク。Cover企画】MONO_NO_AWARE__かむかもしかもにどもかも!_haku..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハク",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/04_ハク_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハク",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_ハク_あたらよ.txt"
+    }
+  ]
+}
